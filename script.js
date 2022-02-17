@@ -1,5 +1,5 @@
 const vardi=['Avis Lielais','Maigonis Pālis','Ralfs Kalniņš','Jānis Baranka','Līga Timofejeva'];
-const balvas=['Šņabis','Pervij golf','Dators','Naglas','Tualetes Papīrs'];
+const balvas=['100 eiro','Golf gti','Dators','Tikšanās ar Egīlu Levitu','Tualetes Papīrs'];
 const naudaKopa=1000000;//kopējā summa
 let uzvaretajuSkaits=5;
 let rindas= document.querySelector('.rindas');
